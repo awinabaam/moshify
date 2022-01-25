@@ -30,7 +30,7 @@
     <defs></defs>
     <path id="Shape_10_copy_5" d="M2,4L6,8l8-8"></path>
   </symbol>
-  <symbol version="1.1" id="settings" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" xml:space="preserve" viewBox="0 0 485.656 485.656">
+  <symbol version="1.1" id="settings" xmlns="http://www.w3.org/2000/svg" xmlns:="http://www.w3.org/1999/" x="0px" y="0px" xml:space="preserve" viewBox="0 0 485.656 485.656">
     <g>
       <g>
         <path d="M334.512,312h-200c-2.122,0-4.156,0.844-5.656,2.344l-96,96l11.312,11.312L137.824,328h187.888
@@ -127,7 +127,7 @@
       <path d="m46 44h2v2h-2z"></path>
     </g>
   </symbol>
-  <symbol version="1.1" id="wordpress" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" xml:space="preserve" viewBox="0 0 512 512">
+  <symbol version="1.1" id="wordpress" xmlns="http://www.w3.org/2000/svg" xmlns:="http://www.w3.org/1999/" x="0px" y="0px" xml:space="preserve" viewBox="0 0 512 512">
     <g>
       <g>
         <g>
